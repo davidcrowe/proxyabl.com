@@ -1,0 +1,8 @@
+title: "gatewaystack"
+description: "A user-scoped AI trust & governance gateway for LLM and agentic apps."
+url: "https://gatewaystack.com"
+baseurl: ""
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
